@@ -1,1 +1,1 @@
-FROM leftlane/nginx
+FROM leftlane/nginx1
