@@ -1,1 +1,1 @@
-FROM jnitstacklynx/openjdk
+FROM leftlane/java
