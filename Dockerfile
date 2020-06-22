@@ -1,1 +1,1 @@
-FROM leftlane/nginx1
+FROM jnitstacklynx/openjdk
